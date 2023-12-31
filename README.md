@@ -76,20 +76,16 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </div>
 
-### Collaboration
+### Collaboration & Tools
 
   <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
     <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  </div>
-
-### ETC
-
-  <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/tableauslack-E97627?style=for-the-badge&logo=tableau&logoColor=white">
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </div>
+
   
 
 </div>
