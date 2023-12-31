@@ -19,8 +19,25 @@
 ✉️ ansoo971@gmail.com
 
 <a href="https://www.notion.so/kangansoo/ec28d8266ae14aa7a9cb1e513ea773d3" target='_blank'>
-  <img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white"> 
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 </a>
 
 </div>
 
+## 🛠️ Skills & Tools I've experienced
+
+<div style="display:flex; flex-direction:column;">
+
+### Language
+
+  <div style="display:flex; flex-direction:row;">
+  <img src='https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+  <img src='https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white'>
+  </div>
+
+## FrontEnd
+
+
+
+
+</div>
