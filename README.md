@@ -14,18 +14,21 @@
 
 <div style="display:flex; flex-direction:column;">
 
-📱 010-3622-8749
+  <p>📱 010-3622-8749 </p>
+  
+  <p>✉️ ansoo971@gmail.com</p>
 
-✉️ ansoo971@gmail.com
-
-<a href="https://kangansoo.com/" target='_blank'>
-  🌐 포트폴리오
-</a>
-
-
-<a href="https://www.notion.so/kangansoo/ec28d8266ae14aa7a9cb1e513ea773d3" target='_blank'>
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
-</a>
+  <div style="display:flex;">
+    <a href="https://kangansoo.com/" target='_blank'>
+      🌐 포트폴리오
+    </a>
+  </div>
+  <br />
+  <div style="display:flex;">
+    <a href="https://www.notion.so/kangansoo/ec28d8266ae14aa7a9cb1e513ea773d3" target='_blank'>
+      <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+    </a>
+  </div>
 
 </div>
 
