@@ -8,6 +8,9 @@
 </div>
 
 <br />
+
+[![kangansoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangansoo&include_all_commits=true&show_icons=true&theme=default)](https://github.com/kangansoo/github-readme-stats)
+
 <br />
 
 ## 📬 About Me
