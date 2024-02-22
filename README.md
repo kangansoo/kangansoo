@@ -3,7 +3,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=76B8F2&text=Welcome😃&fontColor=000000&stroke=ffffff)
 
-## 안녕하세요! IT 서비스 기획자가 최종 목표인 <br /> 프론트엔드 개발자 강안수입니다.
+## 안녕하세요! IT 서비스 기획자가 최종 목표인 <br /> 프론트엔드 개발자 강안수입니다. 
+
 
 </div>
 
