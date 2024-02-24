@@ -10,7 +10,7 @@
 
 <br />
 
-## 👾 Github stats
+## 👾 GitHub stats
 [![kangansoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangansoo&includeallcommits=true&showicons=true&theme=default)](https://github.com/kangansoo/github-readme-stats)
 
 <br />
