@@ -51,7 +51,6 @@
   <div style="display:flex; flex-direction:row;">
     <img src='https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
     <img src='https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white'>
-    <img src='https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white'>
     
   </div>
 
@@ -64,14 +63,6 @@
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </div>
-
-### BackEnd
-
-  <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
   </div>
 
 ### DataBase
