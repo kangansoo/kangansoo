@@ -3,7 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=76B8F2&text=Welcome😃&fontColor=000000&stroke=ffffff)
 
-## 안녕하세요! 제가 가진 가치를 나누는 <br /> 개발자 강안수입니다. 
+## 안녕하세요! 가치를 나누는 <br /> 개발자 강안수입니다. 
 
 
 </div>
