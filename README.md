@@ -3,7 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=76B8F2&text=Welcome😃&fontColor=000000&stroke=ffffff)
 
-## 안녕하세요! 가치를 나누는 <br /> 개발자 강안수입니다. 
+## 안녕하세요! 
 
 
 </div>
@@ -34,11 +34,11 @@
     </a> -->
   </div>
   <br />
-  <div style="display:flex;">
+<!--   <div style="display:flex;">
     <a href="https://www.notion.so/kangansoo/ec28d8266ae14aa7a9cb1e513ea773d3" target='_blank'>
       <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
     </a>
-  </div>
+  </div> -->
 
 </div>
 
@@ -51,8 +51,8 @@
   <div style="display:flex; flex-direction:row;">
 <!--     <img src='https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white'> -->
     <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white'>
-    <img src='https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Java&logoColor=white'>
-    <img src='https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=Java&logoColor=white'>
+    <img src='https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white'>
+    <img src='https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=java&logoColor=white'>
   </div>
 
 ### FrontEnd
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=react&logoColor=black"> 
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next&logoColor=black"> 
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
 <!--     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
@@ -90,7 +90,7 @@
   <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   </div>
 
 <!--
