@@ -29,9 +29,9 @@
   <p>✉️ ansoo971@gmail.com</p>
 
   <div style="display:flex;">
-    <a href="https://kangansoo.com/" target='_blank'>
+<!--     <a href="https://kangansoo.com/" target='_blank'>
       🌐 포트폴리오
-    </a>
+    </a> -->
   </div>
   <br />
   <div style="display:flex;">
@@ -49,9 +49,10 @@
 ### Language
 
   <div style="display:flex; flex-direction:row;">
-    <img src='https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-    <img src='https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white'>
-    
+<!--     <img src='https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white'> -->
+    <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white'>
+    <img src='https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Java&logoColor=white'>
+    <img src='https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=Java&logoColor=white'>
   </div>
 
 ### FrontEnd
@@ -59,12 +60,14 @@
   <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=react&logoColor=black"> 
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
-    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
   </div>
 
+<!--
 ### DataBase
 
   <div style="display:flex; flex-direction:row;">
@@ -80,6 +83,7 @@
     <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
   </div>
+-->
 
 ### CI/CD
 
@@ -88,6 +92,7 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </div>
 
+<!--
 ### Collaboration & Tools
 
   <div style="display:flex; flex-direction:row;">
@@ -97,7 +102,7 @@
     <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </div>
-
+-->
   
 
 </div>
