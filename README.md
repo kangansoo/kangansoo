@@ -29,9 +29,9 @@
   <p>✉️ ansoo971@gmail.com</p>
 
   <div style="display:flex;">
-<!--     <a href="https://kangansoo.com/" target='_blank'>
-      🌐 포트폴리오
-    </a> -->
+  <a href="https://kangansoo.com/" target='_blank'>
+    🌐 포트폴리오
+  </a>
   </div>
   <br />
 <!--   <div style="display:flex;">
